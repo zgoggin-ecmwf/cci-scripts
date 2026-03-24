@@ -1,0 +1,14 @@
+bcrypt
+cffi
+click
+cryptography
+decorator
+Deprecated
+fabric
+fqdn
+invoke
+paramiko
+prometheus_client
+pycparser
+PyNaCl
+wrapt

@@ -1,0 +1,12 @@
+---
+mounts:
+  - /data/download-0001
+  - /data/download-0002
+  - /data/download-0003
+  - /data/download-0004
+  - /data/download-0005
+  - /data/download-0006
+  - /data/download-0007
+  - /data/download-0008
+  - /data/download-0009
+  - /data/download-0010
