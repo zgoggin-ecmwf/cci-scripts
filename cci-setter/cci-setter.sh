@@ -64,7 +64,7 @@ do
       break
       ;;
     "cci2")
-      echo "using cc-2 env vars"
+      echo "using cci-2 env vars"
       export OS_AUTH_URL="https://auth.os-api.cci2.ecmwf.int"
       export OS_PROJECT_ID="f6277d834e834d5cb5e62645cd7d7664" # zachary project!
       break
