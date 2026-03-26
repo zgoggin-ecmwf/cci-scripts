@@ -1,11 +1,22 @@
 ---
+#group_2:
+# - download-cci2-0001
+# - download-cci2-0002
+# - download-cci2-0003
+# - download-cci2-0004
+# - download-cci2-0005
+# - download-cci2-0006
+# - download-cci2-0007
+# - download-cci2-0008
+# - download-cci2-0009
+
 group_1:
-  - download-cci2-0001
-  - download-cci2-0002
-  - download-cci2-0003
-  - download-cci2-0004
-  - download-cci2-0005
-  - download-cci2-0006
-  - download-cci2-0007
-  - download-cci2-0008
-  - download-cci2-0009
+ - download-cci1-0001
+ - download-cci1-0002
+# - download-cci1-0003
+# - download-cci1-0004
+# - download-cci1-0005
+# - download-cci1-0006
+# - download-cci1-0007
+# - download-cci1-0008
+# - download-cci1-0009

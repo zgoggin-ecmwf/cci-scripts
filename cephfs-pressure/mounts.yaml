@@ -1,12 +1,24 @@
 ---
+#mounts:
+#  - /data/download-0001
+#  - /data/download-0002
+#  - /data/download-0003
+#  - /data/download-0004
+#  - /data/download-0005
+#  - /data/download-0006
+#  - /data/download-0007
+#  - /data/download-0008
+#  - /data/download-0009
+#  - /data/download-0010
+
 mounts:
-  - /data/download-0001
-  - /data/download-0002
-  - /data/download-0003
-  - /data/download-0004
-  - /data/download-0005
-  - /data/download-0006
-  - /data/download-0007
-  - /data/download-0008
-  - /data/download-0009
-  - /data/download-0010
+ - /cache/download-cci1-0000
+ - /cache/download-cci1-0001
+# - /cache/download-cci1-0002
+# - /cache/download-cci1-0003
+# - /cache/download-cci1-0004
+# - /cache/download-cci1-0005
+# - /cache/download-cci1-0006
+# - /cache/download-cci1-0007
+# - /cache/download-cci1-0008
+# - /cache/download-cci1-0009

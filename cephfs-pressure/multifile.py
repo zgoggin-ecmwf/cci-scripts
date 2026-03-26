@@ -1,12 +1,8 @@
 
 import click
 import yaml
-import uuid
-import json
 import time
-from os import mkdir
 from socket import gaierror
-from fabric import Connection
 from fabric.group import ThreadingGroup
 
 @click.command()
@@ -19,7 +15,6 @@ from fabric.group import ThreadingGroup
 @click.option("--filenum",   "-f", default=5,                   help="num  (int) of files to create")
 @click.option("--debug",     "-d", is_flag=True, default=False, help="flag (bool) controlling log verboseness")
 @click.option("--json",      "-j", is_flag=True, default=False, help="flag (bool) controlling log format")
-
 def main(
   mountfile: str, hostfile: str, 
   blocksize: int, fio_op: str, 
