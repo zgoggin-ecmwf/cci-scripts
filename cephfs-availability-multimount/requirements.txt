@@ -1,0 +1,5 @@
+click
+fabric
+invoke
+prometheus_client
+pyyaml
